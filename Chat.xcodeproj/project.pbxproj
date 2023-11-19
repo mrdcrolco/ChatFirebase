@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		672807382B0A719E00E3DCDC /* ChatApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 672807372B0A719E00E3DCDC /* ChatApp.swift */; };
-		6728073A2B0A719E00E3DCDC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 672807392B0A719E00E3DCDC /* ContentView.swift */; };
+		6728073A2B0A719E00E3DCDC /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 672807392B0A719E00E3DCDC /* LoginView.swift */; };
 		6728073C2B0A719F00E3DCDC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6728073B2B0A719F00E3DCDC /* Assets.xcassets */; };
 		6728073F2B0A719F00E3DCDC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6728073E2B0A719F00E3DCDC /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		672807342B0A719E00E3DCDC /* Chat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Chat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		672807372B0A719E00E3DCDC /* ChatApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatApp.swift; sourceTree = "<group>"; };
-		672807392B0A719E00E3DCDC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		672807392B0A719E00E3DCDC /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		6728073B2B0A719F00E3DCDC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6728073E2B0A719F00E3DCDC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				672807372B0A719E00E3DCDC /* ChatApp.swift */,
-				672807392B0A719E00E3DCDC /* ContentView.swift */,
+				672807392B0A719E00E3DCDC /* LoginView.swift */,
 				6728073B2B0A719F00E3DCDC /* Assets.xcassets */,
 				6728073D2B0A719F00E3DCDC /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6728073A2B0A719E00E3DCDC /* ContentView.swift in Sources */,
+				6728073A2B0A719E00E3DCDC /* LoginView.swift in Sources */,
 				672807382B0A719E00E3DCDC /* ChatApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
